@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/soda-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/soda-tracker/static/js/main.c07912f0.js",
+    "static/js/239.5c6967b0.chunk.js": "/soda-tracker/static/js/239.5c6967b0.chunk.js",
+    "static/js/977.b7c98432.chunk.js": "/soda-tracker/static/js/977.b7c98432.chunk.js",
+    "static/js/732.6e989de0.chunk.js": "/soda-tracker/static/js/732.6e989de0.chunk.js",
+    "static/js/453.0cd45107.chunk.js": "/soda-tracker/static/js/453.0cd45107.chunk.js",
+    "index.html": "/soda-tracker/index.html",
+    "main.e6c13ad2.css.map": "/soda-tracker/static/css/main.e6c13ad2.css.map",
+    "main.c07912f0.js.map": "/soda-tracker/static/js/main.c07912f0.js.map",
+    "239.5c6967b0.chunk.js.map": "/soda-tracker/static/js/239.5c6967b0.chunk.js.map",
+    "977.b7c98432.chunk.js.map": "/soda-tracker/static/js/977.b7c98432.chunk.js.map",
+    "732.6e989de0.chunk.js.map": "/soda-tracker/static/js/732.6e989de0.chunk.js.map",
+    "453.0cd45107.chunk.js.map": "/soda-tracker/static/js/453.0cd45107.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c07912f0.js"
+  ]
+}
