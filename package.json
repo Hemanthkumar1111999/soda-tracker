@@ -2,7 +2,7 @@
     "name": "soda-tracker",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Hemanthkumar1111999.github.io/soda-tracker",
+    "homepage": "/",
     "dependencies": {
         "@emotion/react": "^11.14.0",
         "@emotion/styled": "^11.14.1",
